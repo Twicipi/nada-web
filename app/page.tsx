@@ -30,11 +30,11 @@ export default function Home() {
             transition={{ delay: 0.4, duration: 0.8 }}
           >
             <p className="text-lg mb-4">
-              The first time we met, I couldn't believe I was meeting an angel. You're the only one I truly adore, the person I want to be with forever.
-              Out of everyone out there, I don’t know how it happened, but I just knew from the moment we met.
+              The first time we met, I couldn&apos;t believe I was meeting an angel. You&apos;re the only one I truly adore, the person I want to be with forever.
+              Out of everyone out there, I don&apos;t know how it happened, but I just knew from the moment we met.
               Even now, I still love you just as much. I love your voice, the way you laugh, and everything about you.
-              You have such a cute face, and every time I see it, my heart skips a beat. Being with you feels like the best thing that’s ever happened to me.
-              Thank you for coming into my life, for making every day brighter and every moment sweeter. You make everything feel special, just by being you. I can't imagine my life without you in it.
+              You have such a cute face, and every time I see it, my heart skips a beat. Being with you feels like the best thing that&apos;s ever happened to me.
+              Thank you for coming into my life, for making every day brighter and every moment sweeter. You make everything feel special, just by being you. I can&apos;t imagine my life without you in it.
             </p>
             <p className="text-lg">
               wipi sayang nada, unch...............................
@@ -67,4 +67,3 @@ export default function Home() {
     </div>
   )
 }
-

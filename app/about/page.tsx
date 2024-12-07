@@ -12,7 +12,7 @@ export default function About() {
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-purple-400">Our Story</h2>
             <p className="text-lg mb-4">
-            YOU STILL IN KALIMANTAN, WE HAVEN'T MET YET SO I DUNNO WHAT TO WRITE HERE. But, I'm blessed, I'm so happy to know you Nad.
+              YOU STILL IN KALIMANTAN, WE HAVEN&apos;T MET YET SO I DUNNO WHAT TO WRITE HERE. But, I&apos;m blessed, I&apos;m so happy to know you Nad.
             </p>
           </div>
           <div className="flex justify-center items-center">
@@ -30,4 +30,3 @@ export default function About() {
     </div>
   )
 }
-
