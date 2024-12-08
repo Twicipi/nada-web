@@ -7,7 +7,7 @@ export default function Gallery() {
     { src: '/images/nadaAnime.jpg', alt: 'Image 1' },
     { src: '/images/nadaKonser.mp4', alt: 'Video 1', isVideo: true },
     { src: '/images/nadaGambar.jpg', alt: 'Image 3' },
-    { src: '/placeholder.svg', alt: 'Image 4' },
+    { src: '/images/nadaBunga.jpg', alt: 'Image 4' },
     { src: '/placeholder.svg', alt: 'Image 5' },
     { src: '/placeholder.svg', alt: 'Image 6' },
   ];
